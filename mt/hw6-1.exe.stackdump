@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004010D3
+eax=00000000 ebx=0028CD18 ecx=612443FE edx=0028CD18 esi=00000004 edi=00403004
+ebp=00000000 esp=0028CD10 program=C:\cygwin\home\Christian\mt\hw6-1.exe, pid 4800, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
